@@ -1,3 +1,19 @@
 # Social-Media-Sentiment-Analysis-master
 
-<img src= "./Customer-segmentation-Analysis-main/img.png"/>
+![7](https://github.com/user-attachments/assets/34947251-49a5-4834-a462-8ed74432777c)
+![6](https://github.com/user-attachments/assets/9bad2345-f4f0-41a8-ae0e-d4ea5f6a88cb)
+![5](https://github.com/user-attachments/assets/f4d23785-2a37-467d-822a-b99c0b7b7444)
+![4](https://github.com/user-attachments/assets/19a8f33b-d00c-4990-bfae-9a616b3fb9c4)
+![3](https://github.com/user-attachments/assets/9a1493bc-7015-4218-8096-7e09783c3643)
+![2](https://github.com/user-attachments/assets/bc98bf98-f29a-483b-a4ce-285f3afeecef)
+![1](https://github.com/user-attachments/assets/4d9993a2-14f5-4154-9664-70558145e635)
+![17](https://github.com/user-attachments/assets/55f791c8-ebae-40d7-8e13-f6f54095d890)
+![16](https://github.com/user-attachments/assets/96b8d290-63a2-4695-bf9e-d8d2e9a747db)
+![15](https://github.com/user-attachments/assets/0ba22915-913f-4a6d-af1c-df53c5dfddf0)
+![14](https://github.com/user-attachments/assets/bec4302a-8405-4eb3-89b7-e6fc7c482e89)
+![13](https://github.com/user-attachments/assets/fbc0a4ea-cd04-4248-a29a-5b186a1f5e97)
+![12](https://github.com/user-attachments/assets/37f95ac3-7903-4615-af97-c8d17b9e9ba3)
+![11](https://github.com/user-attachments/assets/652cc749-8bfb-4dfa-b0aa-9f6655e56c23)
+![10](https://github.com/user-attachments/assets/93b8b4d7-b7cd-4745-a862-1c4af2bcc9dc)
+![9](https://github.com/user-attachments/assets/9ecd6e68-d939-42bf-92ee-07277a943488)
+![8](https://github.com/user-attachments/assets/3180665f-f8f0-465c-9e05-a2681c52ef89)
